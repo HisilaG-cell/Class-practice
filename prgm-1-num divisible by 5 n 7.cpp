@@ -22,10 +22,8 @@ int main()
 	else{
 		printf("The number is not divisible by neither 5 nor 7.");
 	}
-	
-	getch();
-	printf("\n\n-Thank you-");
 	getch();
 	return 0;
 }
+
 
